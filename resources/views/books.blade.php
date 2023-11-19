@@ -1,4 +1,4 @@
 @extends('layout.site')
 @section('appContents')
-    <h1>Contact</h1>
+    <h1>BOOKS</h1>
 @endsection
