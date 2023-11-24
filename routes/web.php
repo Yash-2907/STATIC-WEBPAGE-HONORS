@@ -36,3 +36,7 @@ Route::get('/history', function () {
 Route::get('/books', function () {
     return view('books');
 });
+
+Route::get('/awards', function () {
+    return view('awards');
+});
