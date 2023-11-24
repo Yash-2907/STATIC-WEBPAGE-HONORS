@@ -1,6 +1,5 @@
 <header>
     <style>
-        <style>  
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -30,7 +29,6 @@
         section {
             padding: 2em;
         }
-    </style>
     </style>
     <h1>HAJIME ISAYAMA</h1>
     <body>
